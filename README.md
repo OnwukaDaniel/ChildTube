@@ -1,16 +1,8 @@
 # child_tube
 
-A new Flutter project.
+An Educational TV app for kids.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## In-app Screenshots
+<img src= https://user-images.githubusercontent.com/66129851/178063497-ee270efe-b9ce-4c0e-a345-27fb1cd7688f.png width="200" height="400"> <img src= https://user-images.githubusercontent.com/66129851/178063480-5311a38a-b897-4703-8cd4-bd48129ad965.png width="200" height="400"> 
+<img src= https://user-images.githubusercontent.com/66129851/178063494-0056fdfa-02e6-4fbe-b4c5-04327d05ea27.png width="200" height="400"> 
+ 
